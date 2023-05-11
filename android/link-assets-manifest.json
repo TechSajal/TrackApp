@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assets/Fonts/Rubik-Italic.ttf",
+      "sha1": "645a687a5a95e2f1f4eaa682b2953aee3751453c"
+    },
+    {
+      "path": "Assets/Fonts/Rubik.ttf",
+      "sha1": "00217a0c0295c3eed9a8e69eef86570ea876ccef"
+    }
+  ]
+}
